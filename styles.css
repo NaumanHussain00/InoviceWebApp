@@ -1047,11 +1047,11 @@ body {
   }
 
   .hero-text {
-    order: 1;
+    order: 2;
   }
 
   .hero-image {
-    order: 2;
+    order: 1;
   }
 
   .hero-title {
