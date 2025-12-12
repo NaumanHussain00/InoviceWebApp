@@ -559,8 +559,8 @@ body {
 
 .screenshots-gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.5rem;
   margin-top: 3rem;
   position: relative;
   z-index: 1;
@@ -617,7 +617,7 @@ body {
   background: var(--bg-darker);
   border-radius: 1.25rem;
   overflow: hidden;
-  aspect-ratio: 9 / 19.5;
+  aspect-ratio: 9 / 18;
   box-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.3);
 }
 
